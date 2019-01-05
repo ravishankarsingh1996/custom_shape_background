@@ -6,6 +6,8 @@ Drawing custom path on Canvas in flutter is easy and simple with Paint and Path 
 
 Youtube tutorial link : https://youtu.be/hTxQ3uNC_oU
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hTxQ3uNC_oU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Medium Blog: https://medium.com/@ravishankarsingh1996/flutter-custom-paint-tutorial-draw-a-custom-shape-path-in-flutter-afbbf0202941
 
 If you liked what you read, please leave some claps!
