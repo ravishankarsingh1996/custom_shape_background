@@ -1,4 +1,4 @@
-# curved_path
+# Curved Path Painter
 
 Drawing custom path on Canvas in flutter is easy and simple with Paint and Path class, you can follow the tutorial video and create a custom path on the screen.
 
